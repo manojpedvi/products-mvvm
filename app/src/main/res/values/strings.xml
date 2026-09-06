@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Product Browser</string>
+    <string name="products_title">Products</string>
+    <string name="search_products">Search products</string>
+    <string name="refresh_failed">Couldn\'t refresh. Showing saved products.</string>
+    <string name="no_products">No products found</string>
+    <string name="no_matching_products">No matching products</string>
+    <string name="retry">Retry</string>
+    <string name="clear_search">Clear search</string>
+    <string name="details_title">Product details</string>
+    <string name="back">Back</string>
+    <string name="product_unavailable">This product is no longer available</string>
+    <string name="go_back">Go back</string>
+    <string name="saved">♥ Saved</string>
+    <string name="save">♡ Save</string>
+    <string name="rating">Rating: %1$.1f</string>
+</resources>
